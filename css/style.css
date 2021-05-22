@@ -1,0 +1,370 @@
+html{
+  background-color: #fff;
+
+}
+
+.contenr{
+  font-family: "Roboto","Arial",sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 150%;
+
+  max-width: 1120px;
+  padding-left: 25px;
+  padding-right: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid #ccc;
+}
+
+.header{
+  display: flex;
+  margin-bottom: 75px;
+
+}
+
+.logo{
+  margin-top: 30px;
+  margin-right: auto;
+}
+
+.site-header{
+  display: inline-block;
+  display: flex;
+  margin-top: 36px;
+  list-style: none;
+
+}
+.site-header li{
+  margin: 10px;
+
+}
+
+.bolum{
+  display: inline-block;
+  display: flex;
+}
+
+.site-header a{
+  text-decoration: none;
+  color: #333;
+}
+
+.a{
+  border-bottom:2px solid #333;
+}
+
+.span{
+  font-family: "Roboto","Arial",sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 120%;
+
+  margin-bottom: 30px;
+}
+
+.text{
+  max-width: 460px;
+  height: 120px;
+  border-left:5px solid #ccc;
+  margin-bottom: 30px;
+  padding: 30px;
+
+}
+
+.button{
+  width:260px;
+  height: 50px;
+  background-color: tomato;
+  margin-bottom: 180px;
+  border-radius: 5px;
+  color: #fff;
+
+  font-family: "Roboto","Arial",sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 150%;
+  text-transform: uppercase;
+  border: none;
+  transition: background-color 1s ease,
+  color 0.8s ease,
+  border 0.5  s ease;
+
+}
+
+.button:hover{
+  background-color: rgb(191, 189, 189);
+  color: tomato;
+  border: 2px solid tomato;
+}
+
+.div{
+  margin-right: auto;
+  margin-top: 60px;
+}
+
+.hr{
+  height: 1px;
+  margin-bottom: 68px;
+}
+
+.bolum-2{
+ /* padding-left: 125px;
+  padding-right: 125px;*/
+  display: inline-block;
+  display: flex;
+  margin-bottom: 240px;
+}
+
+
+.know-1{
+  font-family: "Roboto","Arial",sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 150%;
+  text-transform: uppercase;
+  color: #222222;
+}
+
+.train-1{
+  width: 280px;
+  height: 179px;
+  padding-top: 30px;
+  font-family: "Roboto","Arial",sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 160%;
+  color: #333333;
+  margin-right: 40px;
+
+
+}
+
+.train-2{
+  width: 280px;
+  height: 179px;
+  padding-top: 30px;
+  font-family: "Roboto","Arial",sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 160%;
+  color: #333333;
+  margin-right: 40px;
+
+}
+
+.train-3{
+  width: 280px;
+  height: 99px;
+  padding-top: 30px;
+  font-family: "Roboto","Arial",sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 160%;
+  color: #333333;
+
+}
+
+.soat{
+  margin: 0;
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+
+
+
+.information-1{
+  margin: 10px;
+}
+
+.information-2{
+  margin: 10px;
+}
+
+.information-3{
+  margin: 10px;
+}
+
+.qr{
+  display: block;
+  display: flex;
+}
+
+.q{
+  display: block;
+  margin: 5px;
+
+  background-color: #000;
+  width: 10px;
+  height: 10px;
+}
+
+.link{
+  display: flex;
+}
+
+.ch{
+  width: 40px;
+  height: 4px;
+  margin: 0;
+  margin-top: 10px;
+  margin-right: 10px;
+  background-color: tomato;
+}
+
+.learn{
+  font-family: "Roboto","Arial",sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 160%;
+  text-transform: uppercase;
+  text-decoration: none;
+
+  color: #EA625C;
+
+}
+
+/*---------------------------------------------*/
+
+
+.span-2{
+  font-family: "Roboto","Arial",sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 120%;
+  color: #000000;
+  width: 380px;
+  height: 180px;
+
+  margin-bottom: 30px;
+}
+
+.text-2{
+  max-width: 450px;
+  height: 90px;
+  border-left:5px solid #ccc;
+  margin-bottom: 40px;
+  padding: 40px;
+
+}
+
+.button-2{
+  width:260px;
+  height: 50px;
+  background-color: tomato;
+  margin-bottom: 170px;
+  border-radius: 5px;
+  color: #fff;
+
+  font-family: "Roboto","Arial",sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 150%;
+  text-transform: uppercase;
+  border: none;
+  transition: background-color 1s ease,
+  color 0.8s ease;
+}
+.button-2:hover{
+  background-color: rgb(191, 189, 189);
+  color: tomato;
+  border: 2px solid tomato;
+}
+
+
+.imgg{
+  margin-right: 90px;
+}
+
+.fon-img{
+  background-image: url("../img/poyga.png");
+  padding: 0px;
+
+}
+
+.take{
+  display: inline-block;
+  color: #fff;
+  width: 490px;
+  margin-top: 240px;
+  margin-left: 680px;
+}
+
+/*-------------------------------------*/
+
+
+.span-3{
+  font-family: "Roboto","Arial",sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 120%;
+  color: #fff;
+  width: 380px;
+  height: 180px;
+
+  margin-bottom: 30px;
+}
+
+.text-3{
+  max-width: 450px;
+  height: 90px;
+  border-left:5px solid #fff;
+  margin-bottom: 40px;
+  padding: 40px;
+
+}
+
+.button-3{
+  width:260px;
+  height: 50px;
+  background-color: tomato;
+  margin-bottom: 170px;
+  border-radius: 5px;
+  color: #fff;
+
+  font-family: "Roboto","Arial",sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 150%;
+  text-transform: uppercase;
+  border: none;
+  transition: background-color 1s ease,
+  color 0.8s ease;
+}
+.button-2:hover{
+  background-color: rgb(191, 189, 189);
+  color: tomato;
+  border: 2px solid tomato;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
