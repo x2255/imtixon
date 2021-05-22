@@ -288,8 +288,16 @@ html{
   margin-right: 90px;
 }
 
+.con{
+  max-width: 1250px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
 .fon-img{
   background-image: url("../img/poyga.png");
+  background-size: contain;
   padding: 0px;
 
 }
